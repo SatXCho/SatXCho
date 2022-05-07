@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Satvik Choulapally</h1>
 <h3 align="center">A student doing stuff that professors save for later.</h3>
+<img align="center" src="https://github.com/SatXCho/SatXCho/blob/main/banner.png">
 
-- 🧐 I’m currently working on **myself :)**
+-  I’m currently working on **myself :)**
 
-- 📈 I’m currently learning **Js, C, Java, Unreal Engine**
+-  I’m currently learning **Js, C, Java, Unreal Engine**
 
-- 📫 How to reach me **satvikcvsss@gmail.com**
+-  Reach me at **satvikcvsss@gmail.com**
 
-- 😒 Fun fact: **I don't like paper/metal straws. I'm drinking straight outta the cup.**
+-  Fun fact: **I don't like paper/metal straws. I'm drinking straight outta the cup.**
 
-# []("https://cdn.pixabay.com/photo/2020/06/01/22/23/eye-5248678_960_720.jpg")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
