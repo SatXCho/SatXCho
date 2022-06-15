@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satvik Choulapally</h1>
 <h3 align="center">A student doing stuff that professors save for later.</h3>
-<img align="center" src="https://github.com/SatXCho/SatXCho/blob/main/banner.png">
+<img align="center" src="https://github.com/SatXCho/SatXCho/blob/main/banner.png" usemap="image-map">
+<map name="image-map">
+    <area target="" alt="" title="" href="mailto:satvikcvsss@gmail.com" coords="935,483,687,459" shape="rect">
+</map>
 
 -  I’m currently working on **myself :)**
 
