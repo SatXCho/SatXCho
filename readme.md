@@ -32,3 +32,5 @@
 - **Hardware / IoT:**
   - ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![](https://github-profile-trophy.vercel.app/?username=SatXCho&theme=onedark&no-frame=true&no-bg=true&margin-w=0)
