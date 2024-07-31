@@ -1,6 +1,7 @@
 <h2 align= "center">✨Satvik Choulapally✨</h2>
 <h3 align = "center"> Eccentric Billionaire without the billions </h3>
-
+<br><br>
+<h3>Words I live by: "Nothing is more permanent than a temporary fix"</h3>
 <a href = "mailto:satvikcvsss@gmail.com">![banner](https://user-images.githubusercontent.com/92297743/211570569-eaf98851-56a8-49a9-9ca2-c919b4422af5.png)</a>
 
 ### 💻 Skills:
